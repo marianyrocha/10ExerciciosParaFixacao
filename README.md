@@ -1,4 +1,7 @@
-# 10 Exercícios Para Fixação C#
+# Exercícios
+
+10 Exercícios Para Fixação
+
 
 Exercício 1 - Leia 4 valores, calcule a soma entre eles e apresente o resultado.
 
