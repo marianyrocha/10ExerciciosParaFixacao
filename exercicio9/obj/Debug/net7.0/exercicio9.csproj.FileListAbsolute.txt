@@ -1,0 +1,42 @@
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.exe
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.deps.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\refint\exercicio9.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\ref\exercicio9.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\refint\exercicio9.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.exe
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\bin\Debug\net7.0\exercicio9.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\exercicio9.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio9\obj\Debug\net7.0\ref\exercicio9.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\bin\Debug\net7.0\exercicio9.exe
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\bin\Debug\net7.0\exercicio9.deps.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\bin\Debug\net7.0\exercicio9.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\bin\Debug\net7.0\exercicio9.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\bin\Debug\net7.0\exercicio9.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\exercicio9.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\exercicio9.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\refint\exercicio9.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\exercicio9.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\exercicio9.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ALGORITMOS ATIVIDADES\EXERCÍCIOS 1 - 10\exercicio9\obj\Debug\net7.0\ref\exercicio9.dll
