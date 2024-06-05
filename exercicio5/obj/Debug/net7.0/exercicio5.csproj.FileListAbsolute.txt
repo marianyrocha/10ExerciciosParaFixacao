@@ -1,0 +1,28 @@
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.exe
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.deps.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\refint\exercicio5.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\ref\exercicio5.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.exe
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\bin\Debug\net7.0\exercicio5.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\refint\exercicio5.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\exercicio5.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio5\obj\Debug\net7.0\ref\exercicio5.dll
