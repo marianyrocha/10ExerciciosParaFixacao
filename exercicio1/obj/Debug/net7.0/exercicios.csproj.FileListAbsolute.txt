@@ -1,0 +1,56 @@
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\bin\Debug\net7.0\exercicios.exe
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\bin\Debug\net7.0\exercicios.deps.json
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\bin\Debug\net7.0\exercicios.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\bin\Debug\net7.0\exercicios.dll
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\bin\Debug\net7.0\exercicios.pdb
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\exercicios.dll
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\refint\exercicios.dll
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\exercicios.pdb
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\ALOGORITMOS\exercicios\obj\Debug\net7.0\ref\exercicios.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.exe
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.deps.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\refint\exercicios.dll
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.pdb
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\ADS\ALGORITMO E LOGICA DE PROGRAMAÇÃO\ATIVIDADES ALGORITMO\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\ref\exercicios.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.exe
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\bin\Debug\net7.0\exercicios.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\refint\exercicios.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ATIVIDADE40PONTOS\exercicio1\obj\Debug\net7.0\ref\exercicios.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\bin\Debug\net7.0\exercicios.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\bin\Debug\net7.0\exercicios.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\bin\Debug\net7.0\exercicios.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\bin\Debug\net7.0\exercicios.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\bin\Debug\net7.0\exercicios.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\exercicios.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\refint\exercicios.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\exercicios.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\exercicio1\obj\Debug\net7.0\ref\exercicios.dll
